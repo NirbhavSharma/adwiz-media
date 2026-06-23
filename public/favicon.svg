@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">NS Portfolio Mark</title>
+  <desc id="desc">Rounded square badge with the initials NS.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d7665" />
+      <stop offset="100%" stop-color="#d66a35" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#bg)" />
+  <circle cx="94" cy="32" r="10" fill="rgba(255,255,255,0.25)" />
+  <text
+    x="64"
+    y="76"
+    fill="#ffffff"
+    font-family="Aptos, Segoe UI, sans-serif"
+    font-size="44"
+    font-weight="700"
+    text-anchor="middle"
+  >
+    NS
+  </text>
+</svg>

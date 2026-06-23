@@ -1,0 +1,29 @@
+{
+  "name": "adwiz-media-platform",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "seed": "npx tsx scripts/seed-firestore.ts"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "firebase": "^11.8.1",
+    "firebase-admin": "^13.4.0",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.16.0",
+    "next": "^16.2.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "25.9.1",
+    "@types/react": "19.2.15"
+  }
+}

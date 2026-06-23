@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Nirbhav Sharma Portfolio Cover</title>
+  <desc id="desc">Abstract cover image for a full-stack developer portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10151d" />
+      <stop offset="100%" stop-color="#1a2330" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5fd1ba" />
+      <stop offset="100%" stop-color="#ff9b67" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="980" cy="140" r="160" fill="rgba(95,209,186,0.16)" />
+  <circle cx="170" cy="510" r="180" fill="rgba(255,155,103,0.12)" />
+  <rect x="70" y="80" width="1060" height="470" rx="36" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" />
+  <rect x="110" y="120" width="340" height="340" rx="32" fill="rgba(255,255,255,0.05)" />
+  <rect x="150" y="162" width="260" height="20" rx="10" fill="url(#accent)" />
+  <rect x="150" y="205" width="220" height="18" rx="9" fill="rgba(255,255,255,0.18)" />
+  <rect x="150" y="238" width="178" height="18" rx="9" fill="rgba(255,255,255,0.18)" />
+  <rect x="150" y="290" width="210" height="80" rx="18" fill="rgba(95,209,186,0.12)" stroke="rgba(95,209,186,0.22)" />
+  <text x="520" y="220" fill="#ffffff" font-family="Aptos, Segoe UI, sans-serif" font-size="28" letter-spacing="5">
+    FULL-STACK PORTFOLIO
+  </text>
+  <text x="520" y="305" fill="#ffffff" font-family="Georgia, serif" font-size="64" font-weight="700">
+    Nirbhav Sharma
+  </text>
+  <text x="520" y="375" fill="#c8d0dd" font-family="Aptos, Segoe UI, sans-serif" font-size="28">
+    High-performance, polished, recruiter-ready websites
+  </text>
+  <rect x="520" y="430" width="230" height="62" rx="31" fill="url(#accent)" />
+  <text x="635" y="470" fill="#0f172a" font-family="Aptos, Segoe UI, sans-serif" font-size="24" font-weight="700" text-anchor="middle">
+    React  CSS  SEO
+  </text>
+</svg>
